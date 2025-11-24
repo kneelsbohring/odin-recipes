@@ -1,0 +1,1 @@
+Hello! This is the first project of The Odin Project and my web development journey. This is a website that gives you the best recipes on the internet. At the end of this project I will have demonstrated basic HTML skills like boilerplate, headings, paragraphs, links and images. Thank you for visiting my project!
